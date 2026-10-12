@@ -1,0 +1,7 @@
+Docua
+
+Source files in this extension are available under the Mozilla Public License 2.0, included as LICENSE.
+
+LibreOffice application icons and command metadata originate from LibreOffice commit bf6ef2662401c7d6dce671ab4deb26ee0af3a7c1. LibreOffice is a trademark of The Document Foundation. This experimental extension is not an official LibreOffice product.
+
+Microsoft Word and ONLYOFFICE are visual references. This package contains no Microsoft fonts, Microsoft icons, or ONLYOFFICE assets. Installed fonts can be selected at runtime.

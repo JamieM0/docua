@@ -1,0 +1,12 @@
+# Docua
+
+> Experimental LibreOffice interface extension for macOS Apple Silicon. LibreOffice retains its document engine and canvas.
+
+## Documentation
+
+- [README](README.md): Project scope, build commands, and source layout.
+- [Installation](docs/installation.md): Install, update, remove, and recover Docua.
+- [How Docua works](docs/how-it-works.md): Beginner explanation of LibreOffice and the extension.
+- [Architecture](docs/architecture.md): Registration, layout, commands, native bridge, and packaging.
+- [Releasing](docs/releasing.md): Experimental release preparation and testing.
+- [Terminology](docs/terminology.md): Consistent project terms.

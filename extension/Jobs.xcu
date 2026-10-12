@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data oor:name="Jobs" oor:package="org.openoffice.Office" xmlns:oor="http://openoffice.org/2001/registry">
+  <node oor:name="Jobs"><node oor:name="Docua" oor:op="replace"><prop oor:name="Service"><value>org.docua.StartupJob</value></prop></node></node>
+  <node oor:name="Events">
+    <node oor:name="OnNew" oor:op="fuse"><node oor:name="JobList"><node oor:name="Docua" oor:op="replace"/></node></node>
+    <node oor:name="OnLoad" oor:op="fuse"><node oor:name="JobList"><node oor:name="Docua" oor:op="replace"/></node></node>
+  </node>
+</oor:component-data>

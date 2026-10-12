@@ -1,0 +1,10 @@
+{
+  "sourceCommit": "bf6ef2662401c7d6dce671ab4deb26ee0af3a7c1",
+  "sourceDirectory": "sysui/desktop/icons/hicolor/128x128/apps",
+  "files": {
+    "impress.png": "094ed848f3ac132f5f7b062456cb004e831f0e8325e1b6944d5bf4fdb8d6f1e4",
+    "writer.png": "50d2d07412f90d0ce269c83ab4094fdb4a47a48d27ede51efae3afdd3b071292",
+    "calc.png": "6f33d91afd1710d940792ac9b9e29029f3efc86903c2fb4c34238b1323d6ac7b",
+    "draw.png": "f5d2a60e4fa0e42503020e31662dd30be74bc0ab1d03f6d3aa0a8b68ea5bed9e"
+  }
+}

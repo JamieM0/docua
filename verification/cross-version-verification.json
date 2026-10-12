@@ -1,0 +1,20 @@
+{
+  "packageSHA256": "654e773923f23ead469475ff7d6eb2441015561361a1d9220ec122f138f88ac0",
+  "platform": "macOS ARM64",
+  "stockEngines": [
+    "25.8.7.3",
+    "26.8.1.1"
+  ],
+  "writer25": "Custom ribbon rendered; Italic dispatched; Undo restored saved fixture",
+  "calc26": "Formula, add sheet, rename, XLSX save, native UI restoration verified",
+  "upgradeProfile": "work/stock-extension/profile25",
+  "upgradeExtensionReinstall": false,
+  "upgradeVerification": "passed: original OXT cache retained; custom ribbon rendered; Italic and Undo dispatched on 26.8; no extension reinstall",
+  "nativeUpgradeWelcome": "LibreOffice displayed its own version welcome screen; dismissed through Computer Use",
+  "finalPackageSHA256": "fd55749dcc5d219c0fdc2fa75e355e1ab520c50b6b4fac59e82e6cc90ee56b10",
+  "finalPackageChecks": {
+    "25.8.7.3": "Writer ribbon, native menu, italic command and undo, saved state, visual screenshot",
+    "26.8.1.1": "Writer and Calc ribbon, settings and compatibility options, multiple document window menu"
+  },
+  "nativeWindowSwitching": "Window menu document list and Command-backtick both verified between Writer and Calc; native menu restored after LibreOffice clears it"
+}

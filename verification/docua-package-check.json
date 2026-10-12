@@ -1,0 +1,10 @@
+{
+  "packageSHA256": "b390d421e9fb0ce2734b922ccf8ef14b446c6c17f52d4452153ce5372fb284cc",
+  "standaloneBuildIdentical": true,
+  "renamedExtensionInstallation": "fresh isolated LibreOffice 26.8.1.1 profile",
+  "writerBoldAndUndo": "passed through Computer Use",
+  "nativeEnginePatches": false,
+  "settingsAndNativeRestore": "passed through Computer Use",
+  "isolatedProfileRemoval": "passed: unopkg remove org.docua.extension",
+  "stockLibreOfficeRestored": "eleven modified installation resources match original backups; native interface verified through Computer Use"
+}

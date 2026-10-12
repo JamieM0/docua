@@ -1,0 +1,1 @@
+Docua replaces LibreOffice document controls with a customizable ribbon interface. Experimental; macOS Apple Silicon only. LibreOffice retains the document canvas and editing engine.
